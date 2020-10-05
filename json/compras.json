@@ -16,7 +16,7 @@
 			"precio unitario": 300
 		}
 	]
-}, {
+},{
 	"Cliente": "1022734737",
 	"productos": [{
 			"nombre": "Televisor",
@@ -29,7 +29,7 @@
 			"precio unitario": 450000
 		}
 	]
-}, {
+},{
 	"Cliente": "827363",
 	"productos": [{
 			"nombre": "Camiseta",
