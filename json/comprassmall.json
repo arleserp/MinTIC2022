@@ -19,7 +19,6 @@
 	},
 	{
 		"cliente": "1022734737",
-		"productos": [{
 			"productos": [{
 					"nombre": "Televisor",
 					"cantidad": 2,
@@ -31,6 +30,5 @@
 					"precio unitario": 450000
 				}
 			]
-		}]
 	}
 ]
