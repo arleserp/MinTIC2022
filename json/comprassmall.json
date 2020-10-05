@@ -19,16 +19,16 @@
 	},
 	{
 		"cliente": "1022734737",
-			"productos": [{
-					"nombre": "Televisor",
-					"cantidad": 2,
-					"precio unitario": 1500000
-				},
-				{
-					"nombre": "Teatro en Casa",
-					"cantidad": 1,
-					"precio unitario": 450000
-				}
-			]
+		"productos": [{
+				"nombre": "Televisor",
+				"cantidad": 2,
+				"precio unitario": 1500000
+			},
+			{
+				"nombre": "Teatro en Casa",
+				"cantidad": 1,
+				"precio unitario": 450000
+			}
+		]
 	}
 ]
