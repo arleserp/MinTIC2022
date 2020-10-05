@@ -3,18 +3,18 @@
     "productos": [
         {
             "nombre": "Chocolatinas Cohete",
-            "cantidad": 3
+            "cantidad": 3,
 			"precio unitario": 300
         },
         {
             "nombre": "Mora",
-            "cantidad": 1
+            "cantidad": 1,
 			"precio unitario":1000
         },
 		{
             "nombre": "Pan de Maiz",
-            "cantidad": 5
+            "cantidad": 5,
 			"precio unitario":300
-        },
+        }
     ]
 }
