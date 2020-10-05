@@ -1,5 +1,5 @@
 [{
-		"Cliente": "80849599",
+		"cliente": "80849599",
 		"productos": [{
 				"nombre": "Chocolatinas Cohete",
 				"cantidad": 3,
@@ -18,7 +18,7 @@
 		]
 	},
 	{
-		"Cliente": "1022734737",
+		"cliente": "1022734737",
 		"productos": [{
 				"nombre": "Televisor",
 				"cantidad": 2,
@@ -32,7 +32,7 @@
 		]
 	},
 	{
-		"Cliente": "827363",
+		"cliente": "827363",
 		"productos": [{
 				"nombre": "Camiseta",
 				"cantidad": 5,
@@ -46,7 +46,7 @@
 		]
 	},
 	{
-		"Cliente": "827363",
+		"cliente": "827363",
 		"productos": [{
 				"nombre": "PAÑITOS HUM",
 				"cantidad": 1,
