@@ -1,0 +1,25 @@
+[
+	{
+		"cliente": "827363",
+		"productos": [{
+				"nombre": "PAÑITOS HUM",
+				"cantidad": 1,
+				"precio unitario": 5600
+			},
+			{
+				"nombre": "ATUN MARIA",
+				"cantidad": 1,
+				"precio unitario": 45000
+			},
+			{
+				"nombre": "CHAQUETA KAOS",
+				"cantidad": 1,
+				"precio unitario": 359999
+			}, {
+				"nombre": "SALCHI GRANJ",
+				"cantidad": 1,
+				"precio unitario": 15000
+			}
+		]
+	}
+]
