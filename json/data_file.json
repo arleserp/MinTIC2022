@@ -1,1 +1,6 @@
-{"presidente": {"nombre": "Ivan Duque", "edad": 44}}
+{  
+  "presidente": {
+     "nombre": "Ivan Duque",
+	 "edad": 44
+  }
+}
