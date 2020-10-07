@@ -1,0 +1,71 @@
+[{
+		"cliente": "80849599",
+		"productos": [{
+				"nombre": "Chocolatinas Cohete",
+				"cantidad": 3,
+				"precio unitario": 300
+			},
+			{
+				"nombre": "Mora",
+				"cantidad": 1,
+				"precio unitario": 1000
+			},
+			{
+				"nombre": "Pan de Maiz",
+				"cantidad": 5,
+				"precio unitario": 300
+			}
+		]
+	},
+	{
+		"cliente": "1022734737",
+		"productos": [{
+				"nombre": "Televisor",
+				"cantidad": 2,
+				"precio unitario": 1500000
+			},
+			{
+				"nombre": "Teatro en Casa",
+				"cantidad": 1,
+				"precio unitario": 450000
+			}
+		]
+	},
+	{
+		"cliente": "827363",
+		"productos": [{
+				"nombre": "Camiseta",
+				"cantidad": 5,
+				"precio unitario": 300000
+			},
+			{
+				"nombre": "Teatro en Casa",
+				"cantidad": 1,
+				"precio unitario": 450000
+			}
+		]
+	},
+	{
+		"cliente": "827363",
+		"productos": [{
+				"nombre": "PAÑITOS HUM",
+				"cantidad": 1,
+				"precio unitario": 5600
+			},
+			{
+				"nombre": "ATUN MARIA",
+				"cantidad": 1,
+				"precio unitario": 45000
+			},
+			{
+				"nombre": "CHAQUETA KAOS",
+				"cantidad": 1,
+				"precio unitario": 359999
+			}, {
+				"nombre": "SALCHI GRANJ",
+				"cantidad": 1,
+				"precio unitario": 15000
+			}
+		]
+	}
+]
