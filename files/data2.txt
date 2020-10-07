@@ -3,6 +3,3 @@ Esta es la línea 2: abcabcabc
 Esta es la línea 3: abcabcabc
 
 Esta es la línea 4: abcabcabc
-Esta es la línea 4: abcabcabc
-Esta es la línea 4: abcabcabc
-Esta es la línea 4: abcabcabc
