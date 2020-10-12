@@ -1,0 +1,34 @@
+[{
+		"cliente": "80849599",
+		"productos": [{
+				"nombre": "Chocolatinas Cohete",
+				"cantidad": 3,
+				"precio unitario": 300
+			},
+			{
+				"nombre": "Mora",
+				"cantidad": 1,
+				"precio unitario": 1000
+			},
+			{
+				"nombre": "Pan de Maiz",
+				"cantidad": 5,
+				"precio unitario": 300
+			}
+		]
+	},
+	{
+		"cliente": "1022734737",
+		"productos": [{
+				"nombre": "Televisor",
+				"cantidad": 2,
+				"precio unitario": 1500000
+			},
+			{
+				"nombre": "Teatro en Casa",
+				"cantidad": 1,
+				"precio unitario": 450000
+			}
+		]
+	}
+]
